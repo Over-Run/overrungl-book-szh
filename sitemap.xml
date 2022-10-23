@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://over-run.github.io/overrungl-book-szh/</loc>
+         <lastmod>2022-10-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://over-run.github.io/overrungl-book-szh/1-preparing/</loc>
+         <lastmod>2022-10-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://over-run.github.io/overrungl-book-szh/2-game-loop/</loc>
+         <lastmod>2022-10-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://over-run.github.io/overrungl-book-szh/3-rendering/</loc>
+         <lastmod>2022-10-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://over-run.github.io/overrungl-book-szh/a2-terms/</loc>
+         <lastmod>2022-10-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
