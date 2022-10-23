@@ -1,0 +1,17 @@
+site_name: OverrunGL Book
+site_url: https://over-run.github.io/overrungl-book-szh/
+nav:
+  - 介绍: index.md
+  - 准备工作: 1-preparing.md
+  - 游戏循环: 2-game-loop.md
+  - 渲染: 3-rendering.md
+  - 附录 - 术语表: a2-terms.md
+theme:
+  name: readthedocs
+  locale: zh_CN
+  hljs_languages:
+    - groovy
+    - glsl
+markdown_extensions:
+  - toc:
+      permalink: true
